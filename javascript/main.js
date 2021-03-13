@@ -31,4 +31,4 @@ document.addEventListener('keydown',event =>{
 		   painel.peca.desenho();
 	   }
 	}
-});
+}); 
