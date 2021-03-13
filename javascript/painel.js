@@ -12,6 +12,7 @@ class Painel{
     }
     
     
+    
     validar(p){
         return p.shape.every((row, dy) => {
             return row.every((value, dx) => {
